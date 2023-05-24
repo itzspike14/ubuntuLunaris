@@ -1,5 +1,5 @@
 # Ubuntu Lunaris
-## An operating system based on Ubuntu
+- An operating system based on Ubuntu
 
 ### Español
 - Aquí documentaremos todo sobre Ubuntu Lunaris.
