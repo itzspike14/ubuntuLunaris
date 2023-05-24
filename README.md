@@ -1,6 +1,8 @@
-# ubuntuLunaris
-Ubuntu Lunaris repository.
+# Ubuntu Lunaris
+## An operating system based on Ubuntu
 
-🇪🇸 Aquí documentaremos todo sobre Ubuntu Lunaris.
+### Español
+Aquí documentaremos todo sobre Ubuntu Lunaris.
 
-🇬🇧 Here we will document everything about Ubuntu Lunaris.
+### English
+Here we will document everything about Ubuntu Lunaris.
