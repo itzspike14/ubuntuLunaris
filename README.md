@@ -42,7 +42,7 @@ Los cambios que se han hecho en el sistema son los siguientes.
 Somos dos estudiantes de informática en España, el equipo de **Ubuntu Lunaris** esta compuesto por dos personas.
 
 - **iTzSpike**
-    - El creador de **Ubuntu Lunaris**, quien las modificaciones al sistema, hecho toda la personalización de GNOME y la página web.
+    - El creador de **Ubuntu Lunaris**, quien ha hecho las modificaciones al sistema, hecho toda la personalización de GNOME y la página web.
 </br>
 
 - **Solaris**
