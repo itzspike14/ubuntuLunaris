@@ -11,10 +11,11 @@ Una de las decisiones conscientes que se tomaron al desarrollar **Ubuntu Lunaris
 Esta filosofía de minimalismo en las aplicaciones preinstaladas no solo ayuda a mantener el sistema más liviano y eficiente, sino que también empodera a los usuarios, permitiéndoles personalizar su entorno de trabajo de acuerdo con sus preferencias y necesidades individuales.
 </br>
 </br>
+
 ## Cambios hechos en el sistema
 Los cambios que se han hecho en el sistema son los siguientes.
 
-- **Eliminado algunas aplicaciones** inutiles y/o innecesarias, entre ellas:
+- **Eliminado algunas aplicaciones** inútiles y/o innecesarias, entre ellas:
     - Todos los juegos que incluye GNOME (Solitario, Mahjong, Minas, y mas...)
     - La suit completa de LibreOffice 7.4
     - Transmission
@@ -23,45 +24,45 @@ Los cambios que se han hecho en el sistema son los siguientes.
     - Rhythmbox
 </br>
 </br>
-- **Personalizacion de GNOME**
+- **Personalización de GNOME**
     - Barra de tareas puesta abajo.
     - Tamaño de los iconos en **28**.
     - Establecido la fuente **Product Sans** tamaño **11**.
     - Tema oscuro e iconos de color rojo.
-    - Animacion de arranque del sistema personalizada.
+    - Animación de arranque del sistema personalizado.
     - Escala de tamaño de la fuente en 0.95.
-    - Fondo de pantalla caracteristico de **Ubuntu Lunaris**.
+    - Fondo de pantalla característico de **Ubuntu Lunaris**.
 </br>
 </br>
-- **Otra personalizacion**
-    - Al momento de instalar **Ubuntu Lunaris**, solamente se ha dejado una diapositiva de presentacion.
-    - Cada vez que se abre un terminal, se muestra el hardware y/o otras caracteristicas del sistema.
+- **Otra personalización**
+    - Al momento de instalar **Ubuntu Lunaris**, solamente se ha dejado una diapositiva de presentación.
+    - Cada vez que se abre un terminal, se muestra el hardware y/o otras características del sistema.
 </br>
 </br>
 
 ## Quienes somos?
-Somos dos estudiantes de informatica en España, el equipo de **Ubuntu Lunaris** esta compuesto por dos personas.
+Somos dos estudiantes de informática en España, el equipo de **Ubuntu Lunaris** esta compuesto por dos personas.
 
 - **iTzSpike**
-    - El creador de **Ubuntu Lunaris**, quien las modificaciones al sistema, hecho toda la personalizacion de GNOME y la pagina web.
+    - El creador de **Ubuntu Lunaris**, quien las modificaciones al sistema, hecho toda la personalización de GNOME y la página web.
 </br>
 </br>
 - **Solaris**
-    - La persona la cual tuvo la idea de crear este proyecto, encargada de documentar todo lo que se hace en el proyecto y quien personalizara una futura version de **Ubuntu Lunaris** con el escritorio Cinnamon.
+    - La persona la cual tuvo la idea de crear este proyecto, encargada de documentar todo lo que se hace en el proyecto y quien personalizara una futura versión de **Ubuntu Lunaris** con el escritorio Cinnamon.
 </br>
 </br>
 
 ## Quieres apoyar el proyecto?
 Al ser dos estudiantes tenemos el tiempo justo y solamente nos podemos dedicar en el proyecto durante nuestros ratos libres.
 
-Puedes apoyar el proyecto uniendote a nuestro servidor de Discord, proponer cambios o mejoras que harias en el sistema nos ayudaria **muchisimo**!
+Puedes apoyar el proyecto uniéndote a nuestro servidor de Discord, proponer cambios o mejoras que harías en el sistema nos ayudaría **muchísimo**!
 <div style="display: flex; justify-content: flex-start;">
-    <a style="width: calc(100% - 600px); margin: 0; padding: 10px; background-color: #5865F2; color: white; text-align: center; font-size: 18px; border: none; border-radius: 5px; cursor: pointer; text-decoration: none;" href="https://discord.com/invite/8EyGhjP6UZ" target="_blank">Unete a nuestro servidor de <b>Discord!</b></a>
+    <a style="width: calc(100% - 600px); margin: 0; padding: 10px; background-color: #5865F2; color: white; text-align: center; font-size: 18px; border: none; border-radius: 5px; cursor: pointer; text-decoration: none;" href="https://discord.com/invite/8EyGhjP6UZ" target="_blank">Únete a nuestro servidor de <b>Discord!</b></a>
 </div>
 </br>
 </br>
 
-## Algunas imagenes para presentar Ubuntu Lunaris
+## Algunas imágenes para presentar Ubuntu Lunaris
 <img src="https://i.imgur.com/Hy9vCAU.png">
 <img src="https://i.imgur.com/oZHP1y5.png">
 <img src="https://i.imgur.com/dZgLDQn.png">
