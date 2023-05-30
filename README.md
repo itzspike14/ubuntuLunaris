@@ -61,6 +61,7 @@ Puedes apoyar el proyecto uniéndote a nuestro servidor de Discord, proponer cam
 ## Algunas imágenes para presentar Ubuntu Lunaris
 <img src="https://i.imgur.com/Hy9vCAU.png">
 <img src="https://i.imgur.com/oZHP1y5.png">
+<img src="https://i.imgur.com/6PC0W8g.png">
 <img src="https://i.imgur.com/dZgLDQn.png">
 </br>
 
