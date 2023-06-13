@@ -72,3 +72,70 @@ Puedes apoyar el proyecto uniéndote a nuestro servidor de Discord, proponer cam
 
 # English
 ## About the project
+**Ubuntu Lunaris** is a Linux distribution that was born with the idea of improving the user experience of Ubuntu, making it **faster**, **more attractive**, and **elegant**. It also focuses on bringing people who are taking their first steps into the world of Linux operating systems.
+
+One of the distinctive features of **Ubuntu Lunaris** is its desktop environment, which is based on a customized and simplified version of **GNOME** in its 42.5 version. This customization has been configured in such a way as to give users a visually pleasing experience and an intuitive and clean user interface.
+
+By choosing **GNOME** as its base, Ubuntu Lunaris takes advantage of the stability and wide compatibility of this desktop environment while giving it a distinctive touch with its own set of icons, themes, and configurations. This allows users to enjoy the familiarity of GNOME while benefiting from the improvements and optimizations implemented by the Ubuntu Lunaris development team.
+
+One of the conscious decisions made when developing **Ubuntu Lunaris** was to remove some pre-installed applications and leave only the essential ones for normal use. This means that when installing Ubuntu Lunaris, users will find a basic set of applications that cover their daily needs, such as a web browser, a text editor, and other essential tools. However, the development team understands that preferences and needs vary from person to person, so users are given the freedom to install additional applications they desire.
+
+This philosophy of minimalism in pre-installed applications not only helps keep the system lighter and more efficient but also empowers users, allowing them to customize their working environment according to their individual preferences and needs.
+</br>
+
+## Changes made to the system
+The changes that have been made to the system are as follows.
+
+- **Removed some useless and/or unnecessary applications**, including:
+    - All the games included in GNOME (Solitaire, Mahjong, Mines, and more...)
+    - The full suite of LibreOffice 7.4
+    - Transmission
+    - Thunderbird
+    - Imagemagick
+    - Rhythmbox
+</br>
+- **GNOME customization**
+    - Taskbar placed at the bottom.
+    - Icon size set to **28**.
+    - Font set to **Product Sans** size **11**.
+    - Dark theme and red-colored icons.
+    - Custom system startup animation.
+    - Font scaling set to 0.95.
+    - Distinctive wallpaper of **Ubuntu Lunaris**.
+</br>
+- **Other customization**
+    - When installing **Ubuntu Lunaris**, only one presentation slide has been left.
+    - Every time a terminal is opened, it displays the hardware and/or other system features.
+</br>
+
+## Who are we?
+We are two computer science students in Spain, the **Ubuntu Lunaris** team is composed of two people.
+
+- **iTzSpike**
+    - The creator of **Ubuntu Lunaris**, who has made the system modifications, done all the GNOME customization, and created the website.
+</br>
+- **Solaris**
+    - The person who came up with the idea of creating this project, responsible for documenting everything that is done in the project and who will customize a future version of **Ubuntu Lunaris** with the Cinnamon desktop.
+</br>
+
+## Do you want to support the project?
+Being two students, we have limited time and can only dedicate ourselves to the project during our free time.
+
+You can support the project by joining our Discord server, proposing changes or improvements you would make to the system would help us a lot!
+
+<div style="display: flex; justify-content: flex-start;">
+    <a style="width: calc(100% - 600px); margin: 0; padding: 10px; background-color: #5865F2; color: white; text-align: center; font-size: 18px; border: none; border-radius: 5px; cursor: pointer; text-decoration: none;" href="https://discord.com/invite/8EyGhjP6UZ" target="_blank">Join our <b>Discord server!</b></a>
+</div>
+</br>
+
+## Some images to showcase Ubuntu Lunaris
+<img src="https://i.imgur.com/Hy9vCAU.png">
+<img src="https://i.imgur.com/oZHP1y5.png">
+<img src="https://i.imgur.com/6PC0W8g.png">
+<img src="https://i.imgur.com/dZgLDQn.png">
+</br>
+
+## Download Ubuntu Lunaris today!
+<div style="display: flex; justify-content: flex-start;">
+    <a style="width: calc(100% - 600px); margin: 0; padding: 10px; background-color: #4CAF50; color: white; text-align: center; font-size: 18px; border: none; border-radius: 5px; cursor: pointer; text-decoration: none;" href="https://www.ubuntulunaris.itzspike.tk/Ubuntu%20Lunaris%2022.04%20LTS.iso" target="_blank">Download <b>Ubuntu Lunaris 22.04 LTS</b></a>
+</div>
