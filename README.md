@@ -94,6 +94,7 @@ The changes that have been made to the system are as follows.
     - Imagemagick
     - Rhythmbox
 </br>
+
 - **GNOME customization**
     - Taskbar placed at the bottom.
     - Icon size set to **28**.
@@ -103,6 +104,7 @@ The changes that have been made to the system are as follows.
     - Font scaling set to 0.95.
     - Distinctive wallpaper of **Ubuntu Lunaris**.
 </br>
+
 - **Other customization**
     - When installing **Ubuntu Lunaris**, only one presentation slide has been left.
     - Every time a terminal is opened, it displays the hardware and/or other system features.
@@ -114,6 +116,7 @@ We are two computer science students in Spain, the **Ubuntu Lunaris** team is co
 - **iTzSpike**
     - The creator of **Ubuntu Lunaris**, who has made the system modifications, done all the GNOME customization, and created the website.
 </br>
+
 - **Solaris**
     - The person who came up with the idea of creating this project, responsible for documenting everything that is done in the project and who will customize a future version of **Ubuntu Lunaris** with the Cinnamon desktop.
 </br>
