@@ -67,7 +67,7 @@ Puedes apoyar el proyecto uniéndote a nuestro servidor de Discord, proponer cam
 
 ## Descarga Ubuntu Lunaris hoy mismo!
 <div style="display: flex; justify-content: flex-start;">
-    <a style="width: calc(100% - 600px); margin: 0; padding: 10px; background-color: #4CAF50; color: white; text-align: center; font-size: 18px; border: none; border-radius: 5px; cursor: pointer; text-decoration: none;" href="https://www.ubuntulunaris.itzspike.tk/Ubuntu%20Lunaris%2022.04%20LTS.iso" target="_blank">Descarga <b>Ubuntu Lunaris 22.04 LTS</b></a>
+    <a style="width: calc(100% - 600px); margin: 0; padding: 10px; background-color: #4CAF50; color: white; text-align: center; font-size: 18px; border: none; border-radius: 5px; cursor: pointer; text-decoration: none;" href="https://www.ubuntulunaris.itzspike.tk/download.html" target="_blank">Descarga <b>Ubuntu Lunaris</b></a>
 </div>
 
 # English
@@ -140,5 +140,5 @@ You can support the project by joining our Discord server, proposing changes or 
 
 ## Download Ubuntu Lunaris today!
 <div style="display: flex; justify-content: flex-start;">
-    <a style="width: calc(100% - 600px); margin: 0; padding: 10px; background-color: #4CAF50; color: white; text-align: center; font-size: 18px; border: none; border-radius: 5px; cursor: pointer; text-decoration: none;" href="https://www.ubuntulunaris.itzspike.tk/Ubuntu%20Lunaris%2022.04%20LTS.iso" target="_blank">Download <b>Ubuntu Lunaris 22.04 LTS</b></a>
+    <a style="width: calc(100% - 600px); margin: 0; padding: 10px; background-color: #4CAF50; color: white; text-align: center; font-size: 18px; border: none; border-radius: 5px; cursor: pointer; text-decoration: none;" href="https://www.ubuntulunaris.itzspike.tk/download.html" target="_blank">Download <b>Ubuntu Lunaris</b></a>
 </div>
